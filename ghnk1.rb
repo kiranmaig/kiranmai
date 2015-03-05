@@ -1,3 +1,3 @@
-puts first_name= 'kiran\\mai'
-puts last_name= 'ghanta'
-print '\n'
+puts hello, what is ur name?
+text=gets
+puts 'hi this is me'
